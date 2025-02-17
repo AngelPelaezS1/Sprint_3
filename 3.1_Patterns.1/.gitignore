@@ -1,0 +1,6 @@
+# Ignorar configuraciones específicas de IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar carpetas de compilación
+out/
